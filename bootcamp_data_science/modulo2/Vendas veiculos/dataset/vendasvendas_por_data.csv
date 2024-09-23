@@ -1,0 +1,201 @@
+cod_pessoa;nome;genero;data_nascimento;data_compra;fabricante;modelo;valor
+1016;Maria Clara;Feminino;1986-11-21;2020-01-12;Fiat; Uno Attractive 1.0;50004
+1061;Bianca;Feminino;1989-02-21;2020-02-11;Fiat;Mobi Easy 1.5;40449
+1086;Analu;Feminino;1977-08-05;2020-02-11;Volkswagen; Fox Connect 1.6;57640
+1117;Samuel;Masculino;1989-11-22;2020-02-11;Fiat; Uno Attractive 1.0;50004
+1139;Cauã;Masculino;1961-09-14;2020-02-11;Lifan;530 Talent 1.5;43990
+1118;Enzo Gabriel;Masculino;1984-02-15;2020-02-12;Ford;Ka S 1.0;51990
+1048;Maria-;Feminino;1992-09-18;2020-03-11;Hyndai;Hyundai HB20 1.0 Sense;49590
+1050;Ana Laura;Feminino;1997-10-15;2020-03-11;Hyndai;Hyundai HB20 1.0 Sense;49590
+1075;Mariah;Feminino;1969-11-05;2020-03-11;Volkswagen; Gol 1.0;54150
+1092;Ana Vitória;Feminino;1963-12-05;2020-03-11;Hyndai;Hyundai HB20 1.0 Sense;49590
+1193;José;Masculino;1974-01-03;2020-03-11;Fiat;Grand Siena Attractive 1.;54297
+1000;Alice;Feminino;1992-06-20;2020-03-12;Volkswagen; Gol 1.0;54150
+1019;Lara;Feminino;1966-05-11;2020-03-12;Volkswagen; Gol 1.0;54150
+1096;Luana;Feminino;1969-01-24;2020-03-12;Fiat;Mobi Easy 1.5;40449
+1178;Martin;Masculino;1967-06-01;2020-03-12;Fiat;Mobi Easy 1.5;40449
+1024;Ana Júlia;Feminino;1968-05-27;2020-04-11;Renault;Kwid Life 1.0;39390
+1141;Vicente;Masculino;1972-08-30;2020-04-11;Fiat;Grand Siena Attractive 1.;54297
+1111;Lucas;Masculino;1970-09-27;2020-05-11;Volkswagen; Gol 1.0;54150
+1140;Antônio;Masculino;1991-06-22;2020-05-11;Renault;Kwid Life 1.0;39390
+1047;Letícia;Feminino;1996-04-02;2020-05-12;Volkswagen; Gol 1.0;54150
+1169;Davi Luiz;Masculino;1960-06-09;2020-05-12;Lifan;530 Talent 1.5;43990
+1028;Yasmin;Feminino;1953-09-07;2020-06-11;Volkswagen; Gol 1.0;54150
+1105;Lorenzo;Masculino;1961-05-14;2020-06-11;Hyndai;Hyundai HB20 1.0 Sense;49590
+1040;Nicole;Feminino;1982-02-28;2020-06-12;Hyndai;Hyundai HB20 1.0 Sense;49590
+1123;Pedro Henrique;Masculino;1975-01-21;2020-06-12;Fiat; Uno Attractive 1.0;50004
+1143;Gael;Masculino;1975-08-24;2020-06-12;Renault;Kwid Life 1.0;39390
+1155;Kaique;Masculino;1989-01-27;2020-06-12;Fiat;Grand Siena Attractive 1.;54297
+1094;Ana Liz;Feminino;1992-02-15;2020-07-11;Fiat;Argo 1.0;56420
+1166;Luiz Felipe;Masculino;1960-07-25;2020-07-11;Fiat; Uno Attractive 1.0;50004
+1058;Maria Valentina;Feminino;1958-01-07;2020-07-12;Fiat;Mobi Easy 1.5;40449
+1107;Pedro;Masculino;1964-02-08;2020-08-12;Fiat;Argo 1.0;56420
+1157;Augusto;Masculino;1958-05-25;2020-08-12;Fiat; Uno Attractive 1.0;50004
+1161;Thiago;Masculino;1978-07-09;2020-08-12;Fiat;Mobi Easy 1.5;40449
+1018;Eloá;Feminino;1979-03-30;2020-09-11;Fiat;Grand Siena Attractive 1.;54297
+1062;Larissa;Feminino;1971-01-20;2020-09-11;Hyndai;Hyundai HB20 1.0 Sense;49590
+1185;Enzo Miguel;Masculino;1993-11-20;2020-09-11;Fiat;Argo 1.0;56420
+1009;Luiza;Feminino;1991-08-24;2020-09-12;Fiat;Grand Siena Attractive 1.;54297
+1027;Melissa;Feminino;1980-09-21;2020-09-12;Lifan;530 Talent 1.5;43990
+1129;Benício;Masculino;1983-10-28;2020-09-12;Lifan;530 Talent 1.5;43990
+1188;Luiz Otávio;Masculino;1970-02-25;2020-09-12;Fiat;Mobi Easy 1.5;40449
+1046;Agatha;Feminino;1969-04-23;2020-10-11;Lifan;530 Talent 1.5;43990
+1101;Arthur;Masculino;1992-07-11;2020-10-12;Volkswagen; Gol 1.0;54150
+1121;Gustavo;Masculino;1972-04-26;2020-10-12;Fiat;Mobi Easy 1.5;40449
+1057;Emilly;Feminino;1950-07-30;2020-11-11;Fiat;Grand Siena Attractive 1.;54297
+1134;Bryan;Masculino;1977-11-24;2020-11-11;Fiat;Argo 1.0;56420
+1029;Maria Alice;Feminino;1990-08-31;2020-11-12;Fiat;Argo 1.0;56420
+1060;Maria Helena;Feminino;1988-05-07;2020-11-13;Ford;Ka S 1.0;51990
+1030;Isabelly;Feminino;1977-09-13;2020-11-14;Volkswagen; Fox Connect 1.6;57640
+1182;Arthur Gabriel;Masculino;1977-03-11;2020-11-16;Fiat;Argo 1.0;56420
+1051;Catarina;Feminino;1999-07-10;2020-11-17;Fiat;Mobi Easy 1.5;40449
+1128;Isaac;Masculino;1962-07-12;2020-11-17;Renault;Kwid Life 1.0;39390
+1187;Arthur Henrique;Masculino;1950-08-23;2020-11-17;Fiat;Mobi Easy 1.5;40449
+1063;Mirella;Feminino;1972-03-11;2020-11-18;Fiat;Grand Siena Attractive 1.;54297
+1097;Antônia;Feminino;1970-06-26;2020-11-18;Fiat; Uno Attractive 1.0;50004
+1104;Davi;Masculino;1963-10-09;2020-11-18;Volkswagen; Gol 1.0;54150
+1146;Emanuel;Masculino;1966-11-09;2020-11-18;Fiat;Argo 1.0;56420
+1153;Luiz Miguel;Masculino;1987-09-03;2020-11-18;Ford;Ka S 1.0;51990
+1119;João Miguel;Masculino;1986-03-18;2020-11-19;Lifan;530 Talent 1.5;43990
+1021;Isadora;Feminino;1951-05-04;2020-11-20;Fiat;Grand Siena Attractive 1.;54297
+1115;Rafael;Masculino;1951-04-08;2020-11-20;Hyndai;Hyundai HB20 1.0 Sense;49590
+1144;Bento;Masculino;1989-05-13;2020-11-20;Volkswagen; Fox Connect 1.6;57640
+1013;Giovanna;Feminino;1997-12-13;2020-11-21;Ford;Ka S 1.0;51990
+1160;Enrico;Masculino;1969-11-01;2020-11-21;Volkswagen; Fox Connect 1.6;57640
+1164;Thomas;Masculino;1988-09-01;2020-11-21;Fiat; Uno Attractive 1.0;50004
+1184;Kauê;Masculino;1952-03-14;2020-11-21;Hyndai;Hyundai HB20 1.0 Sense;49590
+1011;Lorena;Feminino;1980-01-07;2020-11-22;Ford;Ka S 1.0;51990
+1042;Isis;Feminino;1963-07-12;2020-11-22;Volkswagen; Gol 1.0;54150
+1103;Heitor;Masculino;1962-05-22;2020-11-22;Fiat; Uno Attractive 1.0;50004
+1072;Ayla;Feminino;1953-08-19;2020-11-23;Ford;Ka S 1.0;51990
+1138;João;Masculino;1957-04-04;2020-11-23;Hyndai;Hyundai HB20 1.0 Sense;49590
+1087;Amanda;Feminino;1993-12-23;2020-11-24;Ford;Ka S 1.0;51990
+1089;Maria Isis;Feminino;1970-11-23;2020-11-24;Fiat; Uno Attractive 1.0;50004
+1127;João Pedro;Masculino;1990-10-07;2020-11-24;Renault;Kwid Life 1.0;39390
+1172;Davi Miguel;Masculino;1985-01-25;2020-11-25;Ford;Ka S 1.0;51990
+1175;Luiz Henrique;Masculino;1952-01-10;2020-11-25;Fiat;Mobi Easy 1.5;40449
+1005;Isabella;Feminino;1961-03-06;2020-11-26;Fiat; Uno Attractive 1.0;50004
+1070;Maya;Feminino;1964-01-15;2020-11-26;Hyndai;Hyundai HB20 1.0 Sense;49590
+1076;Stella;Feminino;1978-05-31;2020-11-26;Fiat;Mobi Easy 1.5;40449
+1191;Lucas Gabriel;Masculino;1976-06-25;2020-11-26;Renault;Kwid Life 1.0;39390
+1066;Ana Sophia;Feminino;1979-09-01;2020-11-27;Fiat;Argo 1.0;56420
+1137;Victor;Masculino;1997-06-16;2020-11-27;Lifan;530 Talent 1.5;43990
+1174;Pedro Miguel;Masculino;1961-12-27;2020-11-27;Volkswagen; Gol 1.0;54150
+1020;Maria Júlia;Feminino;1951-06-14;2020-11-28;Renault;Kwid Life 1.0;39390
+1067;Clarice;Feminino;1964-07-08;2020-11-28;Hyndai;Hyundai HB20 1.0 Sense;49590
+1085;Malu;Feminino;1969-06-24;2020-11-29;Fiat; Uno Attractive 1.0;50004
+1052;Clara;Feminino;1988-04-10;2020-11-30;Fiat; Uno Attractive 1.0;50004
+1122;Murilo;Masculino;1994-07-08;2020-11-30;Hyndai;Hyundai HB20 1.0 Sense;49590
+1192;André;Masculino;1998-03-05;2020-11-30;Volkswagen; Fox Connect 1.6;57640
+1156;Otávio;Masculino;1992-08-02;2020-12-11;Hyndai;Hyundai HB20 1.0 Sense;49590
+1198;Miguel Henrique;Masculino;1978-04-22;2020-12-11;Fiat;Mobi Easy 1.5;40449
+1147;Vinícius;Masculino;1965-04-13;2020-12-12;Fiat;Mobi Easy 1.5;40449
+1170;Nathan;Masculino;1968-11-08;2020-12-12;Hyndai;Hyundai HB20 1.0 Sense;49590
+1195;Danilo;Masculino;1961-03-29;2020-12-12;Renault;Kwid Life 1.0;39390
+1132;Leonardo;Masculino;1988-12-28;2020-12-13;Volkswagen; Fox Connect 1.6;57640
+1071;Laís;Feminino;1992-08-26;2020-12-14;Hyndai;Hyundai HB20 1.0 Sense;49590
+1091;Heloise;Feminino;1955-12-09;2020-12-14;Fiat;Mobi Easy 1.5;40449
+1112;Benjamin;Masculino;1990-12-30;2020-12-14;Fiat;Argo 1.0;56420
+1148;João Guilherme;Masculino;1992-01-26;2020-12-15;Fiat;Grand Siena Attractive 1.;54297
+1150;Noah;Masculino;1975-05-24;2020-12-15;Ford;Ka S 1.0;51990
+1162;Ian;Masculino;1981-05-03;2020-12-15;Volkswagen; Gol 1.0;54150
+1113;Nicolas;Masculino;1978-06-26;2020-12-17;Ford;Ka S 1.0;51990
+1163;Victor Hugo;Masculino;1970-08-05;2020-12-17;Fiat;Mobi Easy 1.5;40449
+1181;Luiz Gustavo;Masculino;1952-12-01;2020-12-17;Ford;Ka S 1.0;51990
+1004;Laura;Feminino;1960-04-08;2020-12-18;Fiat;Grand Siena Attractive 1.;54297
+1152;João Victor;Masculino;1975-03-15;2020-12-18;Fiat;Grand Siena Attractive 1.;54297
+1158;Levi;Masculino;1999-05-12;2020-12-19;Hyndai;Hyundai HB20 1.0 Sense;49590
+1012;Lívia;Feminino;1998-01-02;2020-12-20;Fiat;Grand Siena Attractive 1.;54297
+1041;Maitê;Feminino;1965-12-01;2020-12-20;Fiat;Grand Siena Attractive 1.;54297
+1080;Carolina;Feminino;1985-04-28;2020-12-20;Fiat;Grand Siena Attractive 1.;54297
+1173;Raul;Masculino;1970-09-16;2020-12-20;Lifan;530 Talent 1.5;43990
+1001;Sophia;Feminino;1951-04-14;2020-12-22;Fiat;Grand Siena Attractive 1.;54297
+1099;Bruna;Feminino;1970-12-27;2020-12-22;Renault;Kwid Life 1.0;39390
+1190;Tomás;Masculino;1951-08-15;2020-12-22;Volkswagen; Fox Connect 1.6;57640
+1055;Olívia;Feminino;1980-11-16;2020-12-23;Ford;Ka S 1.0;51990
+1095;Joana;Feminino;1999-09-28;2020-12-23;Fiat; Uno Attractive 1.0;50004
+1003;Valentina;Feminino;1952-10-14;2020-12-24;Renault;Kwid Life 1.0;39390
+1056;Maria Fernanda;Feminino;1996-04-02;2020-12-24;Renault;Kwid Life 1.0;39390
+1064;Maria Flor;Feminino;1969-10-02;2020-12-24;Volkswagen; Gol 1.0;54150
+1068;Pietra;Feminino;1950-06-11;2020-12-24;Renault;Kwid Life 1.0;39390
+1136;João Lucas;Masculino;1999-03-20;2020-12-24;Lifan;530 Talent 1.5;43990
+1034;Elisa;Feminino;1995-04-06;2020-12-25;Fiat;Mobi Easy 1.5;40449
+1054;Vitória;Feminino;1976-10-11;2020-12-25;Volkswagen; Gol 1.0;54150
+1069;Maria Vitória;Feminino;1998-04-03;2020-12-25;Renault;Kwid Life 1.0;39390
+1081;Maria Laura;Feminino;1993-06-11;2020-12-25;Volkswagen; Gol 1.0;54150
+1196;Anthony Gabriel;Masculino;1955-10-05;2020-12-25;Volkswagen; Fox Connect 1.6;57640
+1022;Mariana;Feminino;1953-12-27;2020-12-26;Fiat;Grand Siena Attractive 1.;54297
+1088;Aurora;Feminino;1997-04-07;2020-12-27;Fiat; Uno Attractive 1.0;50004
+1135;Eduardo;Masculino;1973-11-21;2020-12-27;Fiat;Mobi Easy 1.5;40449
+1008;Heloísa;Feminino;1998-04-22;2020-12-28;Volkswagen; Fox Connect 1.6;57640
+1109;Enzo;Masculino;1973-10-31;2020-12-28;Lifan;530 Talent 1.5;43990
+1176;Luan;Masculino;1995-04-02;2020-12-28;Fiat;Mobi Easy 1.5;40449
+1180;Rodrigo;Masculino;1961-07-13;2020-12-28;Fiat;Mobi Easy 1.5;40449
+1025;Ana Luiza;Feminino;1969-07-05;2020-12-29;Fiat;Grand Siena Attractive 1.;54297
+1110;Matheus;Masculino;1964-04-23;2020-12-29;Volkswagen; Fox Connect 1.6;57640
+1084;Fernanda;Feminino;1951-03-28;2020-12-31;Fiat; Uno Attractive 1.0;50004
+1083;Maria Sophia;Feminino;1956-11-26;2021-01-01;Fiat;Argo 1.0;56420
+1168;Arthur Miguel;Masculino;1960-08-21;2021-01-01;Ford;Ka S 1.0;51990
+1007;Júlia;Feminino;1992-12-27;2021-01-02;Hyndai;Hyundai HB20 1.0 Sense;49590
+1035;Antonella;Feminino;1985-07-08;2021-01-02;Fiat;Mobi Easy 1.5;40449
+1036;Rafaela;Feminino;1981-02-28;2021-01-02;Volkswagen; Gol 1.0;54150
+1015;Beatriz;Feminino;1994-09-21;2021-01-13;Fiat;Mobi Easy 1.5;40449
+1023;Emanuelly;Feminino;1964-12-28;2021-01-13;Volkswagen; Gol 1.0;54150
+1090;Louise;Feminino;1991-04-18;2021-01-13;Hyndai;Hyundai HB20 1.0 Sense;49590
+1130;Daniel;Masculino;1963-10-27;2021-01-13;Volkswagen; Fox Connect 1.6;57640
+1177;Erick;Masculino;1961-01-05;2021-01-13;Fiat;Mobi Easy 1.5;40449
+1197;Ruan;Masculino;1960-03-09;2021-01-13;Fiat;Mobi Easy 1.5;40449
+1044;Luna;Feminino;1952-10-20;2021-01-14;Fiat;Argo 1.0;56420
+1078;Gabrielly;Feminino;1953-12-17;2021-01-14;Fiat; Uno Attractive 1.0;50004
+1171;Pedro Lucas;Masculino;1991-06-04;2021-01-14;Renault;Kwid Life 1.0;39390
+1126;Felipe;Masculino;1986-05-20;2021-01-15;Volkswagen; Fox Connect 1.6;57640
+1106;Théo;Masculino;1976-05-08;2021-01-17;Fiat;Argo 1.0;56420
+1131;Anthony;Masculino;1971-12-04;2021-01-17;Ford;Ka S 1.0;51990
+1033;Sarah;Feminino;1989-01-27;2021-01-18;Fiat;Argo 1.0;56420
+1073;Ana Lívia;Feminino;1958-08-28;2021-01-18;Fiat;Mobi Easy 1.5;40449
+1074;Eduarda;Feminino;1989-05-25;2021-01-19;Fiat;Mobi Easy 1.5;40449
+1093;Ana Cecília;Feminino;1970-06-19;2021-01-19;Ford;Ka S 1.0;51990
+1108;Gabriel;Masculino;1993-07-04;2021-01-19;Renault;Kwid Life 1.0;39390
+1006;Manuela;Feminino;1981-02-21;2021-01-20;Lifan;530 Talent 1.5;43990
+1026;Ana Clara;Feminino;1961-12-21;2021-01-20;Hyndai;Hyundai HB20 1.0 Sense;49590
+1199;Oliver;Masculino;1975-09-23;2021-01-20;Fiat; Uno Attractive 1.0;50004
+1079;Sophie;Feminino;1991-10-22;2021-01-21;Fiat; Uno Attractive 1.0;50004
+1038;Liz;Feminino;1997-05-12;2021-01-22;Volkswagen; Gol 1.0;54150
+1098;Isabel;Feminino;1986-07-06;2021-01-22;Hyndai;Hyundai HB20 1.0 Sense;49590
+1102;Bernardo;Masculino;1961-04-25;2021-01-22;Fiat;Argo 1.0;56420
+1010;Maria Luiza;Feminino;1961-04-10;2021-01-23;Renault;Kwid Life 1.0;39390
+1045;Rebeca;Feminino;1992-01-28;2021-01-23;Fiat;Grand Siena Attractive 1.;54297
+1014;Maria Eduarda;Feminino;1975-09-16;2021-01-24;Fiat; Uno Attractive 1.0;50004
+1151;João Gabriel;Masculino;1997-11-28;2021-01-24;Volkswagen; Fox Connect 1.6;57640
+1065;Allana;Feminino;1991-10-23;2021-01-25;Fiat;Grand Siena Attractive 1.;54297
+1154;Francisco;Masculino;1981-01-24;2021-01-25;Ford;Ka S 1.0;51990
+1142;Caleb;Masculino;1999-03-01;2021-01-27;Volkswagen; Fox Connect 1.6;57640
+1116;Joaquim;Masculino;1966-02-08;2021-01-28;Lifan;530 Talent 1.5;43990
+1133;Davi Lucca;Masculino;1998-05-12;2021-01-28;Fiat;Argo 1.0;56420
+1179;Bruno;Masculino;1953-05-26;2021-01-29;Lifan;530 Talent 1.5;43990
+1114;Guilherme;Masculino;1999-07-03;2021-01-31;Fiat;Argo 1.0;56420
+1077;Ana;Feminino;1999-02-04;2021-02-01;Fiat;Mobi Easy 1.5;40449
+1125;Lucca;Masculino;1978-12-25;2021-03-01;Volkswagen; Fox Connect 1.6;57640
+1059;Milena;Feminino;1999-11-15;2021-04-01;Ford;Ka S 1.0;51990
+1186;Fernando;Masculino;1962-02-06;2021-04-01;Volkswagen; Fox Connect 1.6;57640
+1189;Carlos Eduardo;Masculino;1950-05-26;2021-04-01;Fiat;Mobi Easy 1.5;40449
+1165;Henry;Masculino;1975-08-16;2021-05-01;Fiat;Argo 1.0;56420
+1194;Yago;Masculino;1986-04-28;2021-05-01;Renault;Kwid Life 1.0;39390
+1032;Esther;Feminino;1968-09-18;2021-07-01;Fiat;Argo 1.0;56420
+1039;Marina;Feminino;1992-01-13;2021-07-01;Lifan;530 Talent 1.5;43990
+1049;Gabriela;Feminino;1964-12-05;2021-07-01;Lifan;530 Talent 1.5;43990
+1053;Ana Beatriz;Feminino;1993-11-16;2021-07-01;Fiat;Grand Siena Attractive 1.;54297
+1120;Henrique;Masculino;1968-02-24;2021-08-01;Fiat;Mobi Easy 1.5;40449
+1145;Caio;Masculino;1968-12-31;2021-08-01;Volkswagen; Fox Connect 1.6;57640
+1159;Yuri;Masculino;1950-12-18;2021-08-01;Renault;Kwid Life 1.0;39390
+1183;Breno;Masculino;1982-02-28;2021-08-01;Fiat;Grand Siena Attractive 1.;54297
+1017;Cecília;Feminino;1987-05-14;2021-09-01;Renault;Kwid Life 1.0;39390
+1124;Pietro;Masculino;1991-12-24;2021-09-01;Fiat; Uno Attractive 1.0;50004
+1002;Helena;Feminino;1993-07-29;2021-10-01;Fiat;Argo 1.0;56420
+1037;Maria Cecília;Feminino;1972-03-09;2021-10-01;Renault;Kwid Life 1.0;39390
+1149;Davi Lucas;Masculino;1963-08-07;2021-10-01;Volkswagen; Gol 1.0;54150
+1167;Ryan;Masculino;1996-10-21;2021-10-01;Volkswagen; Fox Connect 1.6;57640
+1100;Miguel;Masculino;1986-08-29;2021-11-01;Volkswagen; Fox Connect 1.6;57640
+1031;Lavínia;Feminino;1987-04-19;2021-12-01;Fiat; Uno Attractive 1.0;50004
+1043;Alícia;Feminino;1965-07-05;2021-12-01;Volkswagen; Gol 1.0;54150
+1082;Maria Heloísa;Feminino;1954-10-21;2021-12-01;Fiat;Mobi Easy 1.5;40449
